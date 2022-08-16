@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alfaro23/WeatherAPI/static/css/main.9f82af63.css",
+    "main.js": "/Alfaro23/WeatherAPI/static/js/main.b16770b2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Alfaro23/WeatherAPI/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Alfaro23/WeatherAPI/index.html",
+    "main.9f82af63.css.map": "/Alfaro23/WeatherAPI/static/css/main.9f82af63.css.map",
+    "main.b16770b2.js.map": "/Alfaro23/WeatherAPI/static/js/main.b16770b2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Alfaro23/WeatherAPI/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f82af63.css",
+    "static/js/main.b16770b2.js"
+  ]
+}
